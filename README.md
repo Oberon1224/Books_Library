@@ -1,4 +1,4 @@
-# Books_Library
+# Books_Library 📚
  It is a database for storing books
 * [Manual](#manual) 
   * [Introduction](#introduction)
