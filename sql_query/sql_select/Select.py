@@ -102,7 +102,6 @@ class select_books:
                     print(f'{all_results[i][j]:<{7}}'+"|", end="")
                 elif j==7:
                     print(f'{all_results[i][j]:<{7}}'+"|", end="")
-
             print("")
         
 #запрос выборки данных таблицы year
