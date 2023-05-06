@@ -1,3 +1,4 @@
+#Copyright 2023 Bushuev Dmitrii
 import sys
 import os
 sys.path.append(sys.path[0]+'\sql_query')
