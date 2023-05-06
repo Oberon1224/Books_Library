@@ -1,3 +1,4 @@
+#Copyright 2023 Bushuev Dmitrii
 from .open_book.Open_Book import Open_Book
 from sql_query.sql_update.Update import*
 from sql_query.sql_insert.Insert import*
