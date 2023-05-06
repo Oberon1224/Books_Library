@@ -29,7 +29,7 @@
   ##### ---to add an year go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Добавить год"
   ##### ---to add an book go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Добавить книгу"
   ##### Before add books in databse you must add other information necessery for books. 
-  ##### Redundancy is eliminated in the database - when you enter a value, it will not be added. 
+  ##### Eliminated database redundancy when entering an already existing value, it will not be added.
   #### Select from database
  
   ##### If you want see information from database you must select necessary item:
