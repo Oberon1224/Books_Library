@@ -13,12 +13,21 @@
     * [View database](#views-database)
 # Manual
 ### Introduction
- #### Program menu
+ #### Program menu:
  ![Program_menu](https://user-images.githubusercontent.com/73591672/236627772-166d373b-36e3-47f0-b5c9-083b1d9c2e7a.jpg)
 
 ### Instruction
   #### Create or select database
+  If you want create database you must select in main menu "2 - Работа с базой данных"➡"1 - Создать новую базу данных" and if you want change database you must select in main menu "2 - Работа с базой данных"➡"2 - Выбрать другую базу данных"
   #### Insert into database
+  If you want insert information in database you must select necessary item:
+  to add an author go in main menu ➡ "2 - Добавление данных" ➡ "1 - Автор"  ➡ "2 - Добавить автора",
+  to add an author go in main menu ➡ "2 - Добавление данных" ➡ "2 - Язык"  ➡ "2 - Добавить язык",
+  to add an author go in main menu ➡ "2 - Добавление данных" ➡ "3 - Категория"  ➡ "2 - Добавить категорию",
+  to add an author go in main menu ➡ "2 - Добавление данных" ➡ "4 - Хэштэг"  ➡ "2 - Добавить хэштэш",
+  to add an author go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Добавить год",
+  to add an author go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Добавить книгу".
+  Before add books in databse you must add other information necessery for books.
   #### Select from database
   #### Search in database
 ### Database structure
