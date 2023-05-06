@@ -11,7 +11,7 @@
     * [Work with a book](#work-with-a-book)
   * [Database structure](#database-structure)
     * [Table relationships](#table-relationships)
-    * [View database](#views-database)
+    
 # Manual
 ### Introduction
  #### Program menu structure:
@@ -19,7 +19,7 @@
 
 ### Instruction
   #### Create or select database
-  If you want create database you must select in main menu "2 - Работа с базой данных"➡"1 - Создать новую базу данных" and if you want change database you must select in main menu "2 - Работа с базой данных"➡"2 - Выбрать другую базу данных"
+  If you want create database you must select in main menu "2 - Работа с базой данных"➡"1 - Создать новую базу данных"(name database necessery enter without extention .dbo) and if you want change database you must select in main menu "2 - Работа с базой данных"➡"2 - Выбрать другую базу данных" (name database necessery enter with extention .dbo)
   #### Insert into database
   If you want insert information in database you must select necessary item:
   ##### ---to add an author go in main menu ➡ "2 - Добавление данных" ➡ "1 - Автор"  ➡ "2 - Добавить автора"
@@ -28,8 +28,8 @@
   ##### ---to add an hashtag go in main menu ➡ "2 - Добавление данных" ➡ "4 - Хэштэг"  ➡ "2 - Добавить хэштэш"
   ##### ---to add an year go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Добавить год"
   ##### ---to add an book go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Добавить книгу"
-  Before add books in databse you must add other information necessery for books.
-   
+  ##### Before add books in databse you must add other information necessery for books. 
+  ##### Redundancy is eliminated in the database - when you enter a value, it will not be added. 
   #### Select from database
  
   ##### If you want see information from database you must select necessary item:
@@ -52,8 +52,15 @@
   
   
   #### Work with a book
+  ##### For work in books program have next features:
+  ##### ---open book (before open book you must add path for book selecting item "6 - Указать путь к файлу книге")
+  ##### ---add notes and watching notes
+  ##### ---update page books and state reading (if page more than one  - books is reading, if state name "Прочитано" book readed)
+  ##### ---add and wathcing author in book (when adding author you must be sure in database having this author, else author not adding. The same rule when adding a hashtag)
+  ##### ---add and wathcing hashtag in book
+
 ### Database structure
   #### Table relationships:
   ![Database_structure](https://user-images.githubusercontent.com/73591672/236622989-ae5acf5b-dc85-4ae9-8f5c-efb1f93b10e7.jpg)
 
-  #### Views database
+
