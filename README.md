@@ -14,6 +14,8 @@
 # Manual
 ### Introduction
  #### Program menu
+ ![Program_menu](https://user-images.githubusercontent.com/73591672/236627772-166d373b-36e3-47f0-b5c9-083b1d9c2e7a.jpg)
+
 ### Instruction
   #### Create or select database
   #### Insert into database
