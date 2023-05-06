@@ -1,3 +1,4 @@
+#Copyright 2023 Bushuev Dmitrii
 from sql_query.sql_select.Select import*
 from sql_query.sql_insert.Insert import*
 
