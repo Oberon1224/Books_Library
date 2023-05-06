@@ -13,21 +13,28 @@
     * [View database](#views-database)
 # Manual
 ### Introduction
- #### Program menu:
- ![Program_menu](https://user-images.githubusercontent.com/73591672/236627772-166d373b-36e3-47f0-b5c9-083b1d9c2e7a.jpg)
+ #### Program menu structure:
+ ![Program_menu](https://user-images.githubusercontent.com/73591672/236629303-a3dc0bde-8c92-4720-b700-11ae692d54f8.jpg)
 
 ### Instruction
   #### Create or select database
   If you want create database you must select in main menu "2 - Работа с базой данных"➡"1 - Создать новую базу данных" and if you want change database you must select in main menu "2 - Работа с базой данных"➡"2 - Выбрать другую базу данных"
   #### Insert into database
   If you want insert information in database you must select necessary item:
-  ##### to add an author go in main menu ➡ "2 - Добавление данных" ➡ "1 - Автор"  ➡ "2 - Добавить автора",
-  ##### to add an author go in main menu ➡ "2 - Добавление данных" ➡ "2 - Язык"  ➡ "2 - Добавить язык",
-  ##### to add an author go in main menu ➡ "2 - Добавление данных" ➡ "3 - Категория"  ➡ "2 - Добавить категорию",
-  ##### to add an author go in main menu ➡ "2 - Добавление данных" ➡ "4 - Хэштэг"  ➡ "2 - Добавить хэштэш",
-  ##### to add an author go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Добавить год",
-  ##### to add an author go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Добавить книгу".
+  ##### ---to add an author go in main menu ➡ "2 - Добавление данных" ➡ "1 - Автор"  ➡ "2 - Добавить автора"
+  ##### ---to add an language go in main menu ➡ "2 - Добавление данных" ➡ "2 - Язык"  ➡ "2 - Добавить язык"
+  ##### ---to add an category go in main menu ➡ "2 - Добавление данных" ➡ "3 - Категория"  ➡ "2 - Добавить категорию"
+  ##### ---to add an hashtag go in main menu ➡ "2 - Добавление данных" ➡ "4 - Хэштэг"  ➡ "2 - Добавить хэштэш"
+  ##### ---to add an year go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Добавить год"
+  ##### ---to add an book go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Добавить книгу"
   Before add books in databse you must add other information necessery for books.
+    If you want see information from database you must select necessary item:
+  ##### ---to see an all authors go in main menu ➡ "2 - Добавление данных" ➡ "1 - Автор"  ➡ "1 - Показать всех авторов"
+  ##### ---to see an all language go in main menu ➡ "2 - Добавление данных" ➡ "2 - Язык"  ➡ "2 - Показать все язык"
+  ##### ---to see an all category go in main menu ➡ "2 - Добавление данных" ➡ "3 - Категория"  ➡ "2 - Показать все категории"
+  ##### ---to see an all hashtag go in main menu ➡ "2 - Добавление данных" ➡ "4 - Хэштэг"  ➡ "2 - Показать все хэштэги"
+  ##### ---to see an all year go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Показать все года"
+  ##### ---to see an all book go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Показать все книги"
   #### Select from database
   #### Search in database
 ### Database structure
