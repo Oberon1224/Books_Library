@@ -28,14 +28,19 @@
   ##### ---to add an year go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Добавить год"
   ##### ---to add an book go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Добавить книгу"
   Before add books in databse you must add other information necessery for books.
-    If you want see information from database you must select necessary item:
+   
+  #### Select from database
+  ##### If you want see information from database you must select necessary item:
+  ##### ---to see an all  books in reading  go in main menu ➡ "1 - Найти книгу" ➡ "5 - Показать книги на чтении"
+  ##### ---to see an all readed books go in main menu ➡ "1 - Найти книгу" ➡ "6 - Показать прочитанные книги"
   ##### ---to see an all authors go in main menu ➡ "2 - Добавление данных" ➡ "1 - Автор"  ➡ "1 - Показать всех авторов"
   ##### ---to see an all language go in main menu ➡ "2 - Добавление данных" ➡ "2 - Язык"  ➡ "2 - Показать все язык"
   ##### ---to see an all category go in main menu ➡ "2 - Добавление данных" ➡ "3 - Категория"  ➡ "2 - Показать все категории"
   ##### ---to see an all hashtag go in main menu ➡ "2 - Добавление данных" ➡ "4 - Хэштэг"  ➡ "2 - Показать все хэштэги"
   ##### ---to see an all year go in main menu ➡ "2 - Добавление данных" ➡ "5 - Год"  ➡ "2 - Показать все года"
   ##### ---to see an all book go in main menu ➡ "2 - Добавление данных" ➡ "6 - Книга"  ➡ "2 - Показать все книги"
-  #### Select from database
+  
+  
   #### Search in database
 ### Database structure
   #### Table relationships:
