@@ -8,6 +8,7 @@
     * [Insert into database](#insert-into-database)
     * [Select from database](#select-from-database)
     * [Search in database](#search-in-database)
+    * [Work with a book](#work-with-a-book)
   * [Database structure](#database-structure)
     * [Table relationships](#table-relationships)
     * [View database](#views-database)
@@ -42,6 +43,7 @@
   
   
   #### Search in database
+  #### Work with a book
 ### Database structure
   #### Table relationships:
   ![Database_structure](https://user-images.githubusercontent.com/73591672/236622989-ae5acf5b-dc85-4ae9-8f5c-efb1f93b10e7.jpg)
