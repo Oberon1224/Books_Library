@@ -31,6 +31,7 @@
   Before add books in databse you must add other information necessery for books.
    
   #### Select from database
+ 
   ##### If you want see information from database you must select necessary item:
   ##### ---to see an all  books in reading  go in main menu ➡ "1 - Найти книгу" ➡ "5 - Показать книги на чтении"
   ##### ---to see an all readed books go in main menu ➡ "1 - Найти книгу" ➡ "6 - Показать прочитанные книги"
@@ -43,6 +44,13 @@
   
   
   #### Search in database
+  ##### Search books in database making by four criterions:
+  ##### 1. by title: main menu ➡ "1 - Найти книгу" ➡ "1 - Найти книгу по названию"
+  ##### 2. by author: main menu ➡ "1 - Найти книгу" ➡ "2 - Найти книгу по автору"
+  ##### 3. by category: main menu ➡ "1 - Найти книгу" ➡ "3 - Найти книгу по категории"
+  ##### 4. by hashtag: main menu ➡ "1 - Найти книгу" ➡ "1 - Найти книгу по хэштэгу"
+  
+  
   #### Work with a book
 ### Database structure
   #### Table relationships:
