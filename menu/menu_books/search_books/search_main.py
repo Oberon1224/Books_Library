@@ -1,3 +1,4 @@
+#Copyright 2023 Bushuev Dmitrii
 from sql_query.sql_select import Select_View
 from .action_books import action_books
 
