@@ -1,3 +1,4 @@
+#Copyright 2023 Bushuev Dmitrii
 import os
 from .menu_books import*
 from .menu_db import*
