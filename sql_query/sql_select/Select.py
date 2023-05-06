@@ -1,3 +1,4 @@
+#Copyright 2023 Bushuev Dmitrii
 import sqlite3
 
 #запрос выборки данных таблицы author
